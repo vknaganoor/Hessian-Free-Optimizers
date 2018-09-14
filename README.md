@@ -21,7 +21,7 @@ Cojugate Gradient method
 2) Approach: Makes use of conjugate gradient method for solving the Ax=b , where 'A' is the Data matrix and 'b' is the column vector containing the labels
 
 Newton Method using Conjugate Gradient
-1) File Name: Linear_Regression_Newton_CG
+1) [Linear_Regression_Newton_CG](https://github.com/vknaganoor/Hessian-Free-Optimizers/blob/master/Linear_Regression_Newton_CG.ipynb)
 2) Approach: Makes use of the Newton's method with conjuagate gradient to get the step size without inversing the hessian. Conjugate gradint is used to solve z = H^(-1)g
 
 Gaussian-Newton Method using Conjugate Gradient
